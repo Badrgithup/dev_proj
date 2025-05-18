@@ -191,7 +191,6 @@ foyer-ibn-zohr/
 - Complete the theme toggle functionality with proper variable definitions.
 - Implement a mail server (e.g., SMTP with PHPMailer) for reliable email sending.
 - Add password hashing (e.g., `password_hash`) for secure storage in `admins` and `students` tables.
-- Fix the typo in `EsapaceEtudaint.css` and ensure consistent naming.
 - Implement CSRF protection for all forms to enhance security.
 - Add pagination for large datasets in the admin dashboard (students, payments, demands).
 - Create a separate `index.php` for the public website to avoid conflicts with the admin login.
@@ -207,8 +206,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-# License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 # Contact
 For questions or feedback, contact the project maintainer:
